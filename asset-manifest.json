@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sinflix/static/css/main.12358f2d.css",
+    "main.js": "/sinflix/static/js/main.dcc2b385.js",
+    "static/js/787.18a9df48.chunk.js": "/sinflix/static/js/787.18a9df48.chunk.js",
+    "index.html": "/sinflix/index.html",
+    "main.12358f2d.css.map": "/sinflix/static/css/main.12358f2d.css.map",
+    "main.dcc2b385.js.map": "/sinflix/static/js/main.dcc2b385.js.map",
+    "787.18a9df48.chunk.js.map": "/sinflix/static/js/787.18a9df48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12358f2d.css",
+    "static/js/main.dcc2b385.js"
+  ]
+}
