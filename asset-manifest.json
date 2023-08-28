@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ishanthilakarathne.github.io/sinflix/static/css/main.a72a595a.css",
-    "main.js": "/ishanthilakarathne.github.io/sinflix/static/js/main.517b2d5c.js",
-    "static/js/787.18a9df48.chunk.js": "/ishanthilakarathne.github.io/sinflix/static/js/787.18a9df48.chunk.js",
-    "index.html": "/ishanthilakarathne.github.io/sinflix/index.html",
-    "main.a72a595a.css.map": "/ishanthilakarathne.github.io/sinflix/static/css/main.a72a595a.css.map",
-    "main.517b2d5c.js.map": "/ishanthilakarathne.github.io/sinflix/static/js/main.517b2d5c.js.map",
-    "787.18a9df48.chunk.js.map": "/ishanthilakarathne.github.io/sinflix/static/js/787.18a9df48.chunk.js.map"
+    "main.css": "/sinflix/static/css/main.a72a595a.css",
+    "main.js": "/sinflix/static/js/main.b3e6d4c3.js",
+    "static/js/787.18a9df48.chunk.js": "/sinflix/static/js/787.18a9df48.chunk.js",
+    "index.html": "/sinflix/index.html",
+    "main.a72a595a.css.map": "/sinflix/static/css/main.a72a595a.css.map",
+    "main.b3e6d4c3.js.map": "/sinflix/static/js/main.b3e6d4c3.js.map",
+    "787.18a9df48.chunk.js.map": "/sinflix/static/js/787.18a9df48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a72a595a.css",
-    "static/js/main.517b2d5c.js"
+    "static/js/main.b3e6d4c3.js"
   ]
 }
