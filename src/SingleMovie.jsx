@@ -5,7 +5,7 @@ const SingleMovie = () => {
   const { id } = useParams();
   console.log(id);
 
-  const { isLoading, movie, isError } = useFetch(`&i=${id}`);
+  const { isLoading, movie } = useFetch(`&i=${id}`);
 
   if (isLoading) {
     return (
@@ -33,7 +33,10 @@ const SingleMovie = () => {
                 <NavLink to="/" className="back-btn">
             Go Back
           </NavLink>
-          <a href="https://cinesubz.co/?s=avengers" className="back-btn">Download</a>
+            {/* <a href="https://cinesubz.co/?s=avengers" className="back-btn">Download</a> */}
+            <NavLink to="movie/download" className="back-btn">
+              Download
+           </NavLink>
           </p>
         
           
